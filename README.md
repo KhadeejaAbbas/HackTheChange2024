@@ -7,3 +7,5 @@ Drug-resistance is a huge problem. It's such a big problem that patients are usu
 
 Tuber! is an app that allows the patient to send proof of drug intake to their doctor. It works by the user showing their pill, which the app will classify into the correct drug class. Once the user consumes the pill, a database which the doctor has access to will be updated with the time of their last intake.
 
+## How to Run it
+To launch the app, you need to have Xcode installed. From there, just unzip the file and open the file called 'BreakfastFinder.xcodeproj' with the Xcode IDE. You can either run the app on your computer (the camera won't work though). Or you can connect your phone to it and run it on there.
